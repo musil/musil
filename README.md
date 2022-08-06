@@ -15,9 +15,9 @@ I'm Stanislav, developer.
 <br>
 
 <table>
-  <tr><td>Repository</td><td>Language</td></tr>
-  <tr><td>azure-k8s-small-001</td><td><img src="https://img.shields.io/github/languages/top/musil/azure-k8s-small-001" /></td></tr>
-  <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td></tr>
+  <tr><td>Repository</td><td>Language</td><td>Size</td></tr>
+  <tr><td>azure-k8s-small-001</td><td><img src="https://img.shields.io/github/languages/top/musil/azure-k8s-small-001" /></td><td>https://img.shields.io/github/languages/code-size/musil/azure-k8s-small-001</td></tr>
+  <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td><td>https://img.shields.io/github/languages/code-size/musil/vSphere_scripts</td></tr>
   
   
 </table>
