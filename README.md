@@ -1,7 +1,7 @@
 <p>Welcome to my page! 👋 </br>
 I'm Stanislav, developer.
 
-<h3>Things I code with</h3>
+<h3>Things I learn/code with ⚡</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-2088FF?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -17,7 +17,7 @@ I'm Stanislav, developer.
 <table>
   <tr><td>Repository</td><td>Language</td></tr>
   <tr><td>azure-k8s-small-001</td><td><img src="https://img.shields.io/github/languages/top/musil/azure-k8s-small-001" /></td></tr>
-  <tr><td>PRIVATE REPO</td><td><img src="https://img.shields.io/github/languages/top/musil/SMUSIL_PRIVATE" /></td></tr>
+  <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td></tr>
   
   
 </table>
