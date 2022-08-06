@@ -8,7 +8,7 @@ I'm Stanislav, developer.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-GO_lang-lightblue?style=flat-square&logo=go&logoColor=darkblue" />
   
 </p>
