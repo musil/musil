@@ -20,11 +20,32 @@ I'm Stanislav, developer.
   <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/vSphere_scripts"></td></tr>
 </table>
     
-!-- Top Language Dashboard -->
-<a href="https://github.com/lamw">
+<!-- Top Language Dashboard -->
+<a href="https://github.com/musil">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musil&theme=merko" />
 </a>
 
+
+<!-- Stats Dashboard -->
+<a href="https://github.com/musil">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="William's github stats" />
+</a>
+
+## Popular Repositories
+<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
+
+
+<a href="https://github.com/musil/azure-k8s-small-001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
+</a>
+
+
+<!-- Stats Counter --->
+<!-- Thanks to https://github.com/sagar-viradiya -->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/musil/count.svg" />
+</p>
 
 
 <!--
