@@ -1,5 +1,6 @@
-<p>Welcome to my page! 👋 </br>
-I'm Stanislav, developer.
+<p>Hi, 👋 I'm Stanislav, </br>
+<pre>--== Cloud Architect ==-- | VCIX_2021-DCV | VMUG CZ Leader | VMware #vExpert+#NSX+CloudProvider | Blogger #vCD_SP,#NSX,#VSAN,#VCIX,#RHCE,#Azure</pre>
+
 
 <h3>Things I learn/code with ⚡</h3>
 <p>
