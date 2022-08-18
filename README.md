@@ -37,10 +37,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musil&theme=merko" />
 </a>
 
-<!-- Stats Dashboard -->
+<!-- Stats Dashboard - already shown above
 <a href="https://github.com/musil">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="William's github stats" />
 </a>
+-->
 
 ## Popular Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
