@@ -50,7 +50,9 @@
 <a href="https://github.com/musil/azure-k8s-small-001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
 </a>
-
+<a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
+</a>
 
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
