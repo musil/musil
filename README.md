@@ -39,7 +39,7 @@
 
 <!-- Stats Dashboard - already shown above
 <a href="https://github.com/musil">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="William's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="Musil's github stats" />
 </a>
 -->
 
@@ -50,14 +50,15 @@
 <a href="https://github.com/musil/azure-k8s-small-001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
 </a>
-<a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
-</a>
-<br>
+
 <a href="https://github.com/musil/github-backup-to-s3-minio
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=github-backup-to-s3-minio&theme=radical" />
 </a>
 
+<a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
+</a>
+<br>
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
 <p align="center">
