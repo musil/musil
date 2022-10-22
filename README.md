@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
 </a>
 
-<a href="https://github.com/musil/github-backup-to-s3-minio
+<a href="https://github.com/musil/github-backup-to-s3-minio">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=github-backup-to-s3-minio&theme=radical" />
 </a>
 
