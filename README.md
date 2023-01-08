@@ -20,6 +20,9 @@
 </p>
 <br>
 
+[![GitHub followers](https://img.shields.io/github/followers/musil?logo=GitHub&style=for-the-badge)](https://www.github.com/musil)
+[![GitHub Stars](https://img.shields.io/github/stars/stmusil?logo=github&style=for-the-badge)](https://www.github.com/musil)
+
 <h4>Favourite repository</h4>
 
 
