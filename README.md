@@ -16,8 +16,8 @@
   <img alt="GO lang" src="https://img.shields.io/badge/-GO_lang-lightblue?style=flat-square&logo=go&logoColor=darkblue" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-lightblue?style=flat-square&logo=terraform&logoColor=blue" />
 <br>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=musil&count_private=true&show_icons=true">
--->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=musil&count_private=true&show_icons=true">
+
 </p>
 <br>
 
@@ -35,41 +35,45 @@
   <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/vSphere_scripts"></td></tr>
   <tr><td>Edupage Node.js</td><td><img src="https://img.shields.io/github/languages/top/musil/edupage-node-js" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/edupage-node-js"></td></tr>
 </table>
-<!--
+
 <i> all the repository are down below</i>
--->
+
 
 <!-- Top Language Dashboard -->
-<!--
+
 <a href="https://github.com/musil">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musil&theme=merko" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musil&theme=merko" />
 </a>
--->
+
 
 
 <!-- Stats Dashboard - already shown above
 <a href="https://github.com/musil">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="Musil's github stats" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=musil&show_icons=true&theme=merko&line_height=27" alt="Musil's github stats" />
 </a>
 -->
 
 
 
-<!-- ## Popular Repositories -->
+## Popular Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
-<!--
+
 <a href="https://github.com/musil/azure-k8s-small-001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
+</a>
+
+<a href="https://github.com/musil/edupage-node-js">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=edupage-node-js&theme=radical" />
 </a>
 
 <a href="https://github.com/musil/github-backup-to-s3-minio">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=github-backup-to-s3-minio&theme=radical" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=github-backup-to-s3-minio&theme=radical" />
 </a>
 
 <a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
 </a>
--->
+
 
 <br>
 <!-- Stats Counter --->
