@@ -32,6 +32,7 @@
   <tr><td>Repository</td><td>Language</td><td>Size</td></tr>
   <tr><td>azure-k8s-small-001</td><td><img src="https://img.shields.io/github/languages/top/musil/azure-k8s-small-001" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/azure-k8s-small-001"></td></tr>
   <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/vSphere_scripts"></td></tr>
+  <tr><td>Edupage Node.js</td><td><img src="https://img.shields.io/github/languages/top/musil/edupage-node-js" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/edupage-node-js"></td></tr>
 </table>
 
 <i> all the repository are down below</i>
@@ -62,10 +63,6 @@
 
 <a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
-</a>
-
-<a href="https://github.com/musil/edupage-node-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=edupage-node-js&theme=radical" />
 </a>
 
 <br>
