@@ -16,7 +16,8 @@
   <img alt="GO lang" src="https://img.shields.io/badge/-GO_lang-lightblue?style=flat-square&logo=go&logoColor=darkblue" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-lightblue?style=flat-square&logo=terraform&logoColor=blue" />
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=musil&count_private=true&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=musil&count_private=true&show_icons=true">
+-->
 </p>
 <br>
 
@@ -52,7 +53,7 @@
 ## Popular Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
-
+<!--
 <a href="https://github.com/musil/azure-k8s-small-001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
 </a>
@@ -64,6 +65,7 @@
 <a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
 </a>
+-->
 
 <br>
 <!-- Stats Counter --->
