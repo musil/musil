@@ -35,14 +35,17 @@
   <tr><td>vSphere scripts</td><td><img src="https://img.shields.io/github/languages/top/musil/vSphere_scripts" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/vSphere_scripts"></td></tr>
   <tr><td>Edupage Node.js</td><td><img src="https://img.shields.io/github/languages/top/musil/edupage-node-js" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/edupage-node-js"></td></tr>
 </table>
-
+<!--
 <i> all the repository are down below</i>
-
+-->
 
 <!-- Top Language Dashboard -->
+<!--
 <a href="https://github.com/musil">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musil&theme=merko" />
 </a>
+-->
+
 
 <!-- Stats Dashboard - already shown above
 <a href="https://github.com/musil">
@@ -50,10 +53,10 @@
 </a>
 -->
 
-## Popular Repositories
-<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
+## Popular Repositories
+<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/musil/azure-k8s-small-001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
 </a>
