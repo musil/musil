@@ -63,6 +63,11 @@
 <a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
 </a>
+
+<a href="https://github.com/musil/edupage-node-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musil&repo=edupage-node-js&theme=radical" />
+</a>
+
 <br>
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
