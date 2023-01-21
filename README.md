@@ -36,7 +36,6 @@
   <tr><td>Edupage Node.js</td><td><img src="https://img.shields.io/github/languages/top/musil/edupage-node-js" /></td><td><img src="https://img.shields.io/github/languages/code-size/musil/edupage-node-js"></td></tr>
 </table>
 
-<i> all the repository are down below</i>
 
 
 <!-- Top Language Dashboard -->
@@ -72,6 +71,14 @@
 
 <a href="https://github.com/musil/Wattrouter-daily-stats-to-database">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=Wattrouter-daily-stats-to-database&theme=radical" />
+</a>
+
+<a href="https://github.com/musil/vmware-evidence">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=vmware-evidence&theme=radical" />
+</a>
+
+<a href="https://github.com/musil/100DaysOfHomeLab2022">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=100DaysOfHomeLab2022&theme=radical" />
 </a>
 
 
