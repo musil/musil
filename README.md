@@ -22,9 +22,10 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/musil?logo=GitHub&style=for-the-badge)](https://github.com/musil?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/stmusil?logo=github&style=for-the-badge)](https://www.github.com/musil)
+[![GitHub Stars](https://img.shields.io/github/stars/musil?logo=github&style=for-the-badge)](https://www.github.com/musil)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgerY65H7iEEyy4DGkBpGYg?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/channel/UCgerY65H7iEEyy4DGkBpGYg)
-[![Twitter Followers](https://img.shields.io/twitter/follow/stmusil?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://www.twitter.com/stmusil)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/stmusil?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://www.twitter.com/stmusil)
+
 
 <h4>Favourite repository</h4>
 
