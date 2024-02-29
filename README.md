@@ -16,6 +16,7 @@
   <img alt="GO lang" src="https://img.shields.io/badge/-GO_lang-lightblue?style=flat-square&logo=go&logoColor=darkblue" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-lightblue?style=flat-square&logo=terraform&logoColor=blue" />
   <img alt="Python" src="https://img.shields.io/badge/-python-yellow?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/-ansible-red?style=flat-square&logo=ansible&logoColor=white"/>
 <br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=musil&count_private=true&show_icons=true">
 
