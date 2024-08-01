@@ -60,8 +60,8 @@
 ## Popular Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/musil/azure-k8s-small-001">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=azure-k8s-small-001&theme=radical" />
+<a href="https://github.com/musil/vSphere_scripts">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=musil&repo=vSphere_scripts&theme=radical" />
 </a>
 
 <a href="https://github.com/musil/edupage-node-js">
