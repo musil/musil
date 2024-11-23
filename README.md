@@ -1,6 +1,6 @@
 <P align="center">
 <H1 align="center">Hi, 👋 I'm Stanislav Musil, </H1></br>
-<H4 align="center">--== Cloud Architect ==-- | VCIX_2021-DCV | VMUG CZ Leader | VMware #vExpert+#NSX+CloudProvider | Blogger #vCD_SP,#NSX,#VSAN,#VCIX,#RHCE,#Azure  🇬🇧 🇨🇿
+<H4 align="center">--== Stan. ==-- | VMUG CZ Leader | VMware #vExpert + #NSX + #CloudProvider | Blogger #vCloud Directore for Service Providers, #NSX, #vSAN, #VCIX, Linux Redhat #RHCE, #Azure | Certified VCIX-DCV, RHCSA, RHCE, Azure 🇬🇧 🇨🇿
 </H4>
 </p>
 
